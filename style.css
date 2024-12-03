@@ -1,0 +1,94 @@
+.header {
+    height: 70px;
+    width: 100%;
+    background-color: greenyellow;
+}
+.card1 {
+    height: 210px;
+    width: 400px;
+}
+.text1 {
+    margin-left: 370px;
+}
+.img_zavod {
+    height: 500px;
+    width: 1100px;
+    margin-left: 200px;
+}
+.info_zavod {
+    margin-left: 100px;
+}
+.img_ormon {
+    height: 500px;
+    width: 1100px;
+    margin-left: 100px
+}
+.info_ormon {
+    margin-left: 100px;
+}
+.textor {
+    font-weight: bold;
+}
+.textor1 {
+    font-weight: 400 ;
+}
+.textor2 {
+    font-weight: 400;
+}
+.textpl {
+    font-weight:bold ;
+}
+.textpl2 {
+font-weight: 400;
+}
+.tak1 {
+    font-weight: 800;
+}
+.tak3 {
+    font-weight: 800;
+}
+.tak4 {
+    font-weight: 800;
+}
+.tak6 {
+    font-weight: 450;
+}
+.tak8 {
+    font-weight: 450;
+}
+.tak8 {
+    font-weight: 450;
+}
+.tak11 {
+    font-weight: 450;
+}
+@media (max-width: 400px) {
+.text1 {
+    margin-left: -1px
+}
+.card1 {
+    height: 210px;
+    width: 400px;
+}
+.img_zavod {
+    height: 175px;
+    width: 404px;
+    margin-left: -1px;
+}
+.info_zavod {
+    margin-left: -1px;
+    font-weight: 400;
+}
+.img_ormon {
+    height: 210px;
+    width: 400px;
+    margin-left: -1px;
+}
+.info_ormon {
+    margin-left: -1px;
+}
+.img_plast {
+    height: 210px;
+    width: 400px;
+}
+}
